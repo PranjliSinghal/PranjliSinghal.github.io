@@ -25,11 +25,14 @@ h3{
 	height: 100%;
 	margin: 0;
 }
-
+.figure{
+	height: 500px;
+}
 .figure .text {
 	text-align:left;
     
     padding: 50px 35px;
+    margin: auto;
     position: absolute;
     top: 0px;
     left: 0px;
@@ -61,6 +64,10 @@ color:#727878;
 }
 .contact-link:hover{
 	color:#22A39F; 
+}
+
+.gap{
+	height: 20px;
 }
 
 .icon{
