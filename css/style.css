@@ -4,6 +4,15 @@
 .class-white{
 	background-color: #fff;
 }
+
+
+
+.contact-info{
+	text-align: center;
+	margin: auto;
+
+}
+
 h2{
 	color:#22A39F;
 	text-align: center;
@@ -30,13 +39,13 @@ h3{
 }
 .figure .text {
 	text-align:left;
-    
+
     padding: 50px 35px;
     margin: auto;
     position: absolute;
     top: 0px;
     left: 0px;
-    
+
     height: 100%;
     width: 100%;
     opacity: 0;
@@ -63,7 +72,7 @@ a:link{
 color:#727878;
 }
 .contact-link:hover{
-	color:#22A39F; 
+	color:#22A39F;
 }
 
 .gap{
