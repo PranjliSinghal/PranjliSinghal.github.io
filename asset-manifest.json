@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/PranjliSinghal.github.io/static/js/main.9736b95a.chunk.js",
+    "main.js.map": "/PranjliSinghal.github.io/static/js/main.9736b95a.chunk.js.map",
+    "runtime-main.js": "/PranjliSinghal.github.io/static/js/runtime-main.fead400f.js",
+    "runtime-main.js.map": "/PranjliSinghal.github.io/static/js/runtime-main.fead400f.js.map",
+    "static/js/2.415ac386.chunk.js": "/PranjliSinghal.github.io/static/js/2.415ac386.chunk.js",
+    "static/js/2.415ac386.chunk.js.map": "/PranjliSinghal.github.io/static/js/2.415ac386.chunk.js.map",
+    "index.html": "/PranjliSinghal.github.io/index.html",
+    "precache-manifest.6e38eeb712ac3c1dafcf26534a16220f.js": "/PranjliSinghal.github.io/precache-manifest.6e38eeb712ac3c1dafcf26534a16220f.js",
+    "service-worker.js": "/PranjliSinghal.github.io/service-worker.js",
+    "static/js/2.415ac386.chunk.js.LICENSE.txt": "/PranjliSinghal.github.io/static/js/2.415ac386.chunk.js.LICENSE.txt",
+    "static/media/Color-tracker.jpg": "/PranjliSinghal.github.io/static/media/Color-tracker.8d546da6.jpg",
+    "static/media/Face-Classifier.jpg": "/PranjliSinghal.github.io/static/media/Face-Classifier.23d26161.jpg",
+    "static/media/Fake-news.jpg": "/PranjliSinghal.github.io/static/media/Fake-news.902781cd.jpg",
+    "static/media/ML.jpg": "/PranjliSinghal.github.io/static/media/ML.6bab44fc.jpg",
+    "static/media/Me.jpg": "/PranjliSinghal.github.io/static/media/Me.330ff7b0.jpg",
+    "static/media/Motion.jpg": "/PranjliSinghal.github.io/static/media/Motion.93de43f8.jpg",
+    "static/media/MovieReview.jpg": "/PranjliSinghal.github.io/static/media/MovieReview.b4d7fdc0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fead400f.js",
+    "static/js/2.415ac386.chunk.js",
+    "static/js/main.9736b95a.chunk.js"
+  ]
+}
